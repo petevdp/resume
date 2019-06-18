@@ -46,7 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
   * __Middleware__: NodeJS, Ruby On Rails
   * __Testing__: RSpec, Mocha, Jest, Capybara, Cypress, Pytest
   * __Database__: PostgreSQL, MongoDB
-  * __Ops__: Git, Docker, Linux
+  * __DevOps__: Git, Docker, Vagrant, Linux
 
 # Footer
 footer_show_references: false
