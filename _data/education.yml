@@ -1,9 +1,32 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Lighthouse Labs(Vancouver)
+  qualification: Certificate in Web Development
+  dates: April 2019 - Present
   quote: >
-    Short institution or course description (optional)
+    Coding Bootcamp
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    My most productive and fun education experience thus far. Immersive, Up-to-date project-based learning. My time there complimented my pre-existing programming skills with practical knowledge of web-specific technologies, industry best-practices, and the skills required to build software effectively in a group environment.
+  link: https://www.lighthouselabs.ca/
+
+- layout: left
+  name: independent Study
+  dates: Summer 2017 - Present
+  description: |
+    I'm a self-motivated learner, and as a result much of my dev experience thus far has been self-directed, building small self-contained projects, and learning as much as I can about software development. I'm always seeking knowledge on both specific languages and frameworks that can be useful to me, and the general prevailing wisdom when it comes to building and maintaining software systems.
+
+    __Favorite Books__:
+      * The C Programming Language(K&R)
+      * Clean Code
+      * Code Complete
+      * You Don't Know Javascript
+      * Don't Make Me Think
+      * Effective Python
+
+    __Courses__:
+    * Neural Networks and Deep Learning (Coursera, Andrew Ng)
+    * Advanced Python (Pluralsight)
+
+    __Other__:
+      * A bunch of youtube channels relating to whatever I'm working on at the time
+      * Pretty much anything else I can find

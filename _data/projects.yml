@@ -1,9 +1,29 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Melee-Frame-Data-Bot
+  # link:
+  github: https://github.com/grey275/melee-frame-data-bot
   quote: >
-    Short overview of the project (optional)
+    Information-serving Discord dot written in python
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Serves data on the internals of one of my favorite games via a set of simple fuzzy-searched commands. Includes gifs/images, and interfaces with google sheets as a data source.
+
+- layout: top-middle
+  name: WikiMap
+  github: https://github.com/shadeying/WikiMap
+  quote: >
+    Find cool places to visit and share your own.
+  description: |
+    Allows its users to create, edit and display, and share maps containing points of interest. Uses the Google maps api.
+    Two person group project built in less than 4 days for my midterm Group Project at Lighthouse Labs.
+    _stack_: SCSS, jQuery, NodeJS, Express, Knex, PostgreSQL
+
+- layout: top-middle
+  name: ChattyApp
+  github: https://github.com/grey275/ChattyApp
+  quote: >
+    Real-time web chatroom
+  description: |
+    Features the typical suite of features expected of a chatroom, including colored names, user anonymization, and user status notifications. Written as an intro to React and websockets.
+
+    _stack_: Nodejs, Express, ws, React, SCSS
