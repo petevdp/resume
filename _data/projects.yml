@@ -4,7 +4,7 @@
   # link:
   github: https://github.com/grey275/melee-frame-data-bot
   quote: >
-    Information-serving Discord dot written in python
+    Discord Bot
   description: | # this will include new lines to allow paragraphs
     Serves data on the internals of one of my favorite games via a set of simple fuzzy-searched commands. Includes gifs/images, and interfaces with google sheets as a data source.
 
@@ -14,8 +14,7 @@
   quote: >
     Find cool places to visit and share your own.
   description: |
-    Allows its users to create, edit and display, and share maps containing points of interest. Uses the Google maps api.
-    Two person group project built in less than 4 days for my midterm Group Project at Lighthouse Labs.
+    Allows its users to create, edit and display, and share maps containing points of interest. Uses the Google maps API.
     _stack_: SCSS, jQuery, NodeJS, Express, Knex, PostgreSQL
 
 - layout: top-middle
@@ -24,6 +23,6 @@
   quote: >
     Real-time web chatroom
   description: |
-    Features the typical suite of features expected of a chatroom, including colored names, user anonymization, and user status notifications. Written as an intro to React and websockets.
+    Features the typical suite of features expected of a chatroom, including colored names, user anonymization, and user status notifications. Written as an intro to React and Websockets.
 
     _stack_: Nodejs, Express, ws, React, SCSS

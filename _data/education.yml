@@ -4,29 +4,32 @@
   qualification: Certificate in Web Development
   dates: April 2019 - Present
   quote: >
-    Coding Bootcamp
+    Coding Bootcamp with immersive, up-to-date project-based learning.
   description: | # this will include new lines to allow paragraphs
-    My most productive and fun education experience thus far. Immersive, Up-to-date project-based learning. My time there complimented my pre-existing programming skills with practical knowledge of web-specific technologies, industry best-practices, and the skills required to build software effectively in a group environment.
+    Along with the multitude of technologies covered in the curriculum, Lighthouse Labs familiarized me with these essential areas of software development:
+    * Testing (unit, integration)
+    * Version control in a team setting
+    * Relational Database schema design and implementation
+    * RESTful API design
+    * Effective planning for software projects
+    * Meeting Buisness
   link: https://www.lighthouselabs.ca/
 
 - layout: left
   name: independent Study
   dates: Summer 2017 - Present
   description: |
-    I'm a self-motivated learner, and as a result much of my dev experience thus far has been self-directed, building small self-contained projects, and learning as much as I can about software development. I'm always seeking knowledge on both specific languages and frameworks that can be useful to me, and the general prevailing wisdom when it comes to building and maintaining software systems.
+    I'm a self-motivated learner, and as a result much of my dev experience thus far has been self-directed, building small self-contained projects, and learning as much as I can about software development. I'm always seeking knowledge on both specific languages and frameworks that can be useful to me, and the general prevailing wisdom when it comes to building and maintaining software systems. As is common nowadays, much of my studies have involved isolated articles, guides, and tutorials found in various places on the web, but here are a few of the larger pieces of content I've enjoyed.
 
-    __Favorite Books__:
-      * The C Programming Language(K&R)
-      * Clean Code
-      * Code Complete
-      * You Don't Know Javascript
-      * Don't Make Me Think
-      * Effective Python
+    __Books__:
+      * The C Programming Language - K&R
+      * Clean Code - Robert C. Martin
+      * Code Complete - Steve McConnell
+      * You Don't Know JS - Kyle Simpson
+      * Don't Make Me Think - Steve Krug
+      * Effective Python - Brett Slatkin
+      * The Road to Learn React - Robin Wiruch
 
     __Courses__:
     * Neural Networks and Deep Learning (Coursera, Andrew Ng)
     * Advanced Python (Pluralsight)
-
-    __Other__:
-      * A bunch of youtube channels relating to whatever I'm working on at the time
-      * Pretty much anything else I can find
