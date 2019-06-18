@@ -73,4 +73,10 @@ exclude:
     "lib/",
     "scripts/",
     "docker-compose.yml",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "LICENSE",
+    "modern-resume-theme.gemspec",
+    "screenshot.png",
   ]
