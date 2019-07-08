@@ -1,5 +1,5 @@
 # Site
-repository: grey275/resume
+repository: petevdp/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -12,7 +12,7 @@ email: pjvanderpol@gmail.com
 
 # Social links
 # twitter_username: jekyllrb
-github_username: grey275
+github_username: petevdp
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -49,7 +49,7 @@ more_content: | # this will include new lines to allow paragraphs
   * __DevOps__: Git, Docker, Vagrant, Linux
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
