@@ -1,8 +1,19 @@
 # Project template
+
+- layout: top-middle
+  name: WatchPoll
+  # link:
+  github: grey275/melee-frame-data-bot
+  quote: >
+    The democratic experience, in youtube video form.
+  description: | # this will include new lines to allow paragraphs
+    Watch videos together with a group of people online, and vote on the next video to be played. Users can join rooms, which are playing youtube videos that are synchronized between all clients. They are presented with a set of videos to vote on for the next video to watch, and the one with the highest vote wins.
+
+
 - layout: top-middle
   name: Melee-Frame-Data-Bot
   # link:
-  github: grey275/melee-frame-data-bot
+  github: petevdp/melee-frame-data-bot
   quote: >
     Discord Bot
   description: | # this will include new lines to allow paragraphs
@@ -20,7 +31,7 @@
 
 - layout: top-middle
   name: ChattyApp
-  github: grey275/ChattyApp
+  github: petevdp/ChattyApp
   quote: >
     Real-time web chatroom
   description: |
