@@ -27,8 +27,7 @@ linkedin_username: pvanderpolwebdev
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Enthusiastic web dev with strong programming fundamentals. I love writing concise, readable, and scalable code that solves problems, as well as learning what I can about technologies that I'm working with. Looking for positions where I can contribute substantially and grow in the process.
-
+  Enthusiastic web developer with strong programming fundamentals. I take pride in writing concise, readable, and scalable code that solves problems, and I enjoy searching improving my workflow and knowledge related to my current project and the tech wold more generally. I'm interested in positions where I can contribute substantially as part of a team, and grow as a result.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
