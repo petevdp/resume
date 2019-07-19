@@ -8,6 +8,7 @@
     The democratic experience, in youtube video form.
   description: | # this will include new lines to allow paragraphs
     Watch videos together with a group of people online, and vote on the next video to be played. Features video synchronization, and a drag and drop ordering interface used for preference-order-based voting.
+
     _stack_: SCSS, React, Ruby on Rails, PostgreSQL
 
 - layout: top-middle
