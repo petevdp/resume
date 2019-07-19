@@ -3,12 +3,12 @@
 - layout: top-middle
   name: WatchPoll
   # link:
-  github: grey275/melee-frame-data-bot
+  github: petevdp/watchpoll
   quote: >
     The democratic experience, in youtube video form.
   description: | # this will include new lines to allow paragraphs
-    Watch videos together with a group of people online, and vote on the next video to be played. Users can join rooms, which are playing youtube videos that are synchronized between all clients. They are presented with a set of videos to vote on for the next video to watch, and the one with the highest vote wins.
-
+    Watch videos together with a group of people online, and vote on the next video to be played. Features video synchronization, and a drag and drop ordering interface used for preference-order-based voting.
+    _stack_: SCSS, React, Ruby on Rails, PostgreSQL
 
 - layout: top-middle
   name: Melee-Frame-Data-Bot
@@ -20,16 +20,6 @@
     Serves data on the internals of one of my favorite games via a set of simple fuzzy-searched commands. Includes gifs/images, and interfaces with google sheets as a data source. Written in Python.
 
 - layout: top-middle
-  name: WikiMap
-  github: shadeying/WikiMap
-  quote: >
-    Find cool places to visit and share your own.
-  description: |
-    Allows its users to create, edit, display, and share maps containing points of interest. Uses the Google maps API.
-
-    _stack_: SCSS, jQuery, NodeJS, Express, Knex, PostgreSQL
-
-- layout: top-middle
   name: ChattyApp
   github: petevdp/ChattyApp
   quote: >
@@ -38,3 +28,13 @@
     Features the typical suite of features expected of a chatroom, including colored names, user anonymization, and user status notifications. Written as an intro to React and Websockets.
 
     _stack_: Nodejs, Express, ws, React, SCSS
+
+- layout: top-middle
+  name: WikiMap
+  github: shadeying/WikiMap
+  quote: >
+    Find cool places to visit and share your own.
+  description: |
+    Allows its users to create, edit, display, and share maps containing points of interest. Uses the Google maps API.
+
+    _stack_: SCSS, jQuery, NodeJS, Express, Knex, PostgreSQL
