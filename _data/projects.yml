@@ -25,7 +25,7 @@
   quote: >
     Find cool places to visit and share your own.
   description: |
-    Allows its users to create, edit and display, and share maps containing points of interest. Uses the Google maps API.
+    Allows its users to create, edit, display, and share maps containing points of interest. Uses the Google maps API.
 
     _stack_: SCSS, jQuery, NodeJS, Express, Knex, PostgreSQL
 
