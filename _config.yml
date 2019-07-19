@@ -43,7 +43,7 @@ more_content: | # this will include new lines to allow paragraphs
   * __Languages__: Javascript(ES5/ES6), Python, C/C++, Ruby, SQL, Bash
   * __Front End__: CSS3, SCSS, HTML5, React, jQuery, Webpack
   * __Middleware__: NodeJS, Ruby On Rails
-  * __Testing__: RSpec, Mocha, Jest, Capybara, Cypress, Pytest
+  * __Testing__: RSpec, Mocha, Jest, Capybara
   * __Database__: PostgreSQL, MongoDB
   * __DevOps__: Git, Docker, Vagrant, Linux
 
@@ -52,7 +52,7 @@ footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-remote_theme: sproogen/modern-resume-theme # (Use this if you are hosting your resume on GitHub)
+# remote_theme: sproogen/modern-resume-theme # (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
