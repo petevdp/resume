@@ -1,6 +1,6 @@
 # Project template
 
-- layout: top-middle
+- layout: project
   name: WatchPoll
   # link:
   github: petevdp/watchpoll
@@ -11,7 +11,7 @@
 
     _stack_: SCSS, React, Ruby on Rails, PostgreSQL
 
-- layout: top-middle
+- layout: project
   name: Melee-Frame-Data-Bot
   # link:
   github: petevdp/melee-frame-data-bot
@@ -20,7 +20,7 @@
   description: | # this will include new lines to allow paragraphs
     Serves data on the internals of one of my favorite games via a set of simple fuzzy-searched commands. Includes gifs/images, and interfaces with google sheets as a data source. Written in Python.
 
-- layout: top-middle
+- layout: project
   name: ChattyApp
   github: petevdp/ChattyApp
   quote: >
@@ -30,7 +30,7 @@
 
     _stack_: Nodejs, Express, ws, React, SCSS
 
-- layout: top-middle
+- layout: project
   name: WikiMap
   github: shadeying/WikiMap
   quote: >

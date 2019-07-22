@@ -8,6 +8,13 @@
   align-items: center;
 }
 
+@media (min-width: 768px) {
+  .row.equal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
 ul.icons a:hover {
   background: rgba(0, 0, 0, 0.025);
 }
