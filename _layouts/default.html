@@ -9,12 +9,13 @@
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
+      <div class="row container">
+        {%- include about.html -%}
 
-      {%- include about.html -%}
-
-      {%- if site.more_content -%}
-      {%- include more.html -%}
-      {%- endif -%}
+        {%- if site.more_content -%}
+        {%- include more.html -%}
+        {%- endif -%}
+      </div>
 
       {%- if site.data.projects.size > 0 -%}
       {%- include projects.html -%}
