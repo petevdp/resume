@@ -6,36 +6,23 @@
   quote: >
     Coding Bootcamp with immersive, up-to-date project-based learning.
   description: | # this will include new lines to allow paragraphs
-    Along with the many technologies covered in the curriculum, Lighthouse Labs familiarized me with these essential areas of software development:
-    * Testing (unit, integration)
-    * Version control in team settings
-    * Relational Database schema design and implementation
-    * RESTful API design
-    * Effective planning for software projects
-    * Working with and meeting business requirements
-  link: https://www.lighthouselabs.ca/
+    Lighthouse Labs is a fantastic coding bootcamp that improved my programming skills tremendously, and gave me confidence in my ability to build things quickly, efficiently, and correctly.
+
+    __Skills Developed__:
+      * Collaborative software design and development
+      * Restful API and Database Schema design
+      * Working with and meeting business requirements
+      * Automated Testing
+      * General programming ability
 
 - layout: left
   name: Independent Study
   dates: Summer 2017 - Present
   description: |
-    I'm a self-motivated learner, and as a result much of my dev experience thus far has been self-directed, building small self-contained projects, and learning as much as I can from the internet about software development. I've used too many resources to list here, but here are a few of the more substantive pieces of content that I've learned from.
+    I got into programming as a hobby a few years ago, and ever since then I found myself spending more and more of my free time working on my latest project.
 
-    __Books__:
-      * The C Programming Language - K&R
-      * From Mathematics to Generic Programming - Alexander A. Stepanov, Daniel E. Rose
-      * Clean Code - Robert C. Martin
-      * Code Complete - Steve McConnell
-      * You Don't Know JS - Kyle Simpson
-      * Don't Make Me Think - Steve Krug
-      * Effective Python - Brett Slatkin
-      * The Road to Learn React - Robin Wiruch
-
-    __Courses__:
-    * Neural Networks and Deep Learning (Coursera, Andrew Ng)
-    * Advanced Python (Pluralsight)
-
-    __Websites__:
-    * HackerRank
-    * CodeSignal
-    * Dev.to
+    __Skills Developed__:
+      * Independent Troubleshooting and Debugging
+      * Software Design patterns, principles and best practices
+      * Computational Problem Solving
+      * Data structures and Algorithms

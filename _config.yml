@@ -27,7 +27,7 @@ linkedin_username: pvanderpolwebdev
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Enthusiastic web developer with strong programming fundamentals. I take pride in writing concise, readable, and scalable code that solves problems, and I enjoy searching improving my workflow and knowledge related to my current project and the tech wold more generally. I'm interested in positions where I can contribute substantially as part of a team, and grow as a result.
+  Enthusiastic, self-motivated Software Developer with a growth mindset. I have a passion for programming, and I’m always looking to improve my process, tools, and general understanding of software development.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -40,12 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Technologies
 more_content: | # this will include new lines to allow paragraphs
-  * __Languages__: Javascript(ES5/ES6), Python, C/C++, Ruby, SQL, Bash
+  * __Languages__: Javascript(ES6), Typescript, Python, C/C++, Ruby, SQL, Bash
   * __Front End__: CSS3, SCSS, HTML5, React, jQuery, Webpack
-  * __Middleware__: NodeJS, Ruby On Rails
-  * __Testing__: RSpec, Mocha, Jest, Capybara
-  * __Database__: PostgreSQL, MongoDB
-  * __DevOps__: Git, Docker, Vagrant, Linux
+  * __Back End__: NodeJS, Ruby On Rails
+  * __Testing__: Mocha, Chai, Jest, RSpec
+  * __Database__: PostgreSQL, MongoDB, Redis
+  * __DevOps__: Git, Docker, Vagrant, Linux, SystemD
 
 # Footer
 footer_show_references: true
