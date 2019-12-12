@@ -2,14 +2,14 @@
 - layout: left
   name: Lighthouse Labs(Vancouver)
   qualification: Certificate in Web Development
-  dates: April 2019 - Present
+  dates: April - July 2019
   quote: >
     Coding Bootcamp with immersive, up-to-date project-based learning.
   description: | # this will include new lines to allow paragraphs
     Lighthouse Labs is a fantastic coding bootcamp that improved my programming skills tremendously, and gave me confidence in my ability to build things quickly, efficiently, and correctly.
 
     __Skills Developed__:
-      * Collaborative software design and development
+      * Collaborative software planning, design and development
       * Restful API and Database Schema design
       * Working with and meeting business requirements
       * Automated Testing
@@ -19,10 +19,20 @@
   name: Independent Study
   dates: Summer 2017 - Present
   description: |
-    I got into programming as a hobby a few years ago, and ever since then I found myself spending more and more of my free time working on my latest project.
+    Programming started out as an occasional hobby that I enjoyed, but over time has consumed more and more of my attention with
+    new projects, curiosities, and ideas. The volume of resources dedicated to programming online has made my time spent online unexpectedly productive.
+    This experience resulted from my general passion for learning and curiosity.
 
-    __Skills Developed__:
-      * Independent Troubleshooting and Debugging
-      * Software Design patterns, principles and best practices
+    __General Skills Developed__:
       * Computational Problem Solving
-      * Data structures and Algorithms
+      * Independent Troubleshooting and Debugging
+      * How to use the Internet to learn things quickly
+      * How to ask questions people want to answer
+
+    __Technical Skills Developed__:
+      * Data-Structures and Algorithms
+      * Object Oriented Programming
+      * Functional Programming
+      * Linux Shell Scripting
+      * Linux Command Line Utilities and General System Architecture
+      * Machine Learning and Computer Vision basics

@@ -20,14 +20,43 @@
     Serves data on the internals of one of my favorite games via a set of simple fuzzy-searched commands. Includes gifs/images, and interfaces with google sheets as a data source. Written in Python.
 
 - layout: project
-  name: Chatty
-  github: petevdp/Chatty
+  name: ChessArena
+  dates: August 2019 - Present
+  github: petevdp/chess
   quote: >
-    Real-time web chatroom
+    Watch chess Engines compete for elo!
   description: |
-    Features the typical suite of features expected of a chatroom, including colored names, user anonymization, and user status notifications. Written as an intro to React and Websockets.
+    ChessArena is an experimental project I'm building to try and replicate the challenges faced by apps with lots of asynchronous communication, computationally intensive workloads, and real-time analystics.
 
-    _stack_: Nodejs, Express, ws, React, SCSS
+    _stack_: Nodejs, Typescript, React, rxjs
+
+- layout: project
+  name: VSCode Open-Source Contributions
+  dates: November 2019 - Present
+  github: microsoft/vscode/commits?author=petevdp
+  quote: >
+    Open source is Fun!
+  description: |
+    I've made a few small contributions to Microsoft's, a popular text editor. and fulfilling feature requests. My experience there so far has been very valuable, having learned a ton from advice from senior developers, how to effectively propose code changes, and grappling with VSCode's large codebase.
+
+- layout: project
+  name: Mineswept
+  dates: November 2019 - Present
+  github: petevdp/mineswept
+  quote: >
+    Experiments in ReasonML and minesweeper engines!
+  description: |
+    Basic implementation of minesweeper using [ReasonReact](https://reasonml.github.io/reason-react/) along with an engine(AI). Built to learn functional programming, ReasonMl and algebraic data-structures beyond typescript. I'm still activly tweaking the engine so hopefully it has a high enough success-rate by the time you read this!
+
+# - layout: project
+#   name: Chatty
+#   github: petevdp/Chatty
+#   quote: >
+#     Real-time web chatroom
+#   description: |
+#     Features the typical suite of features expected of a chatroom, including colored names, user anonymization, and user status notifications. Written as an intro to React and Websockets.
+
+#     _stack_: Nodejs, Express, React, SCSS
 
 - layout: project
   name: WikiMap
