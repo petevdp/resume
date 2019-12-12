@@ -21,7 +21,6 @@
 
 - layout: project
   name: ChessArena
-  dates: August 2019 - Present
   github: petevdp/chess
   quote: >
     Watch chess Engines compete for elo!
@@ -32,7 +31,6 @@
 
 - layout: project
   name: VSCode Open-Source Contributions
-  dates: November 2019 - Present
   github: microsoft/vscode/commits?author=petevdp
   quote: >
     Open source is Fun!
@@ -41,7 +39,6 @@
 
 - layout: project
   name: Mineswept
-  dates: November 2019 - Present
   github: petevdp/mineswept
   quote: >
     Experiments in ReasonML and minesweeper engines!
