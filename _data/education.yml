@@ -6,11 +6,12 @@
   quote: >
     Coding Bootcamp with immersive, up-to-date project-based learning.
   description: | # this will include new lines to allow paragraphs
-    Lighthouse Labs is a fantastic coding bootcamp that improved my programming skills tremendously, and gave me confidence in my ability to build things quickly, efficiently, and correctly.
+    Lighthouse Labs is a fantastic coding bootcamp that improved my programming skills tremendously, introduced me to cornerstone web technologies, and gave me experience working with others in a fast-paced environment. Importantly, I also found that I still greatly enjoyed software development after spending an inordinate amount of time immersed in it.
 
     __Skills Developed__:
       * Collaborative software planning, design and development
       * Restful API and Database Schema design
+      * Researching feature viability
       * Working with and meeting business requirements
       * Automated Testing
       * General programming ability
@@ -19,9 +20,9 @@
   name: Independent Study
   dates: Summer 2017 - Present
   description: |
-    Programming started out as an occasional hobby that I enjoyed, but over time has consumed more and more of my attention with
-    new projects, curiosities, and ideas. The volume of resources dedicated to programming online has made my time spent online unexpectedly productive.
-    This experience resulted from my general passion for learning and curiosity.
+        Programming started out as an occasional hobby that I enjoyed, but over time has consumed more and more of my attention with
+    new projects, curiosities, and ideas. The volume of resources dedicated to programming online has made my time spent online unexpectedly productive,
+    though of course there are always areas where I should probably spend more time(and some where I should spend less).
 
     __General Skills Developed__:
       * Computational Problem Solving
@@ -36,3 +37,4 @@
       * Linux Shell Scripting
       * Linux Command Line Utilities and General System Architecture
       * Machine Learning and Computer Vision basics
+    

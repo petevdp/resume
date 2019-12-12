@@ -43,7 +43,7 @@
   quote: >
     Experiments in ReasonML and minesweeper engines!
   description: |
-    Basic implementation of minesweeper using [ReasonReact](https://reasonml.github.io/reason-react/) along with an engine(AI). Built to learn functional programming, ReasonMl and algebraic data-structures beyond typescript. I'm still activly tweaking the engine so hopefully it has a high enough success-rate by the time you read this!
+    Basic implementation of minesweeper using [ReasonReact](https://reasonml.github.io/reason-react/) along with an engine(AI). Built to learn functional programming and algebraic data-structures with ReasonMl. I'm still activly tweaking the engine so hopefully it has a high enough success-rate by the time you read this!
 
 # - layout: project
 #   name: Chatty
