@@ -25,7 +25,7 @@
   quote: >
     Watch chess Engines compete for elo!
   description: |
-    ChessArena is an experimental project I'm building to try and replicate the challenges faced by apps with lots of asynchronous communication, computationally intensive workloads, and real-time analystics.
+    ChessArena is an experimental project I'm building to try and replicate the challenges faced by apps with lots of asynchronous communication, computationally intensive workloads, and real-time analytics.
 
     _stack_: Nodejs, Typescript, React, rxjs
 
