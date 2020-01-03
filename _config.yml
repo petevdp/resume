@@ -27,11 +27,12 @@ linkedin_username: pvanderpolwebdev
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Programming hobbyist turned bootcamp grad and open source contributor looking to make software my career.
+  Programming hobbyist turned bootcamp grad and open source contributor looking to make software my career!
 
-  I put a lot of emphasis on code quality, and I make an effort to ask good questions.
+  I put a lot of emphasis on code quality, asking good questions, and investing in my practical skillset.
 
-  Always looking to expand my horizons, making mistakes along the way, and hopefully learning from them!
+  Always doing my best to extand my horizons, and learn from mistakes.
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
