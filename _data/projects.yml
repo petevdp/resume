@@ -31,11 +31,11 @@
 
 - layout: project
   name: VSCode Open-Source Contributions
-  github: microsoft/vscode/commits?author=petevdp
+  github: https://github.com/microsoft/vscode/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Apetevdp
   quote: >
     Open source is Fun!
   description: |
-    I've made a few small contributions to Microsoft's, a popular text editor. and fulfilling feature requests. My experience there so far has been very valuable, having learned a ton from advice from senior developers, how to effectively propose code changes, and grappling with VSCode's large codebase.
+    I've made a few small contributions to Microsoft's [VSCode](https://code.visualstudio.com), a popular open-source text editor. The process of submitting and iterating on pull requests improved my understanding of how to ask for feedback on desired behaviour, code quality, as well as how to effectively propose code changes, among other things. Also, perhaps most importantly, it really improved my process when it comes to grappling with a new codebase/feature.
 
 - layout: project
   name: Mineswept
@@ -43,7 +43,7 @@
   quote: >
     Experiments in ReasonML and minesweeper engines!
   description: |
-    Basic implementation of minesweeper using [ReasonReact](https://reasonml.github.io/reason-react/) along with an engine(AI). Built to learn functional programming and algebraic data-structures with ReasonMl. I'm still activly tweaking the engine so hopefully it has a high enough success-rate by the time you read this!
+    Basic implementation of minesweeper using [ReasonReact](https://reasonml.github.io/reason-react/) along with bot that can play it. Built to get more into functional programming and algebraic data-structures with the language ReasonMl.
 
 # - layout: project
 #   name: Chatty
